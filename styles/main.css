@@ -386,7 +386,6 @@ body {
      background-color: gold;
      color: #002529;
      padding: 14px 36px;
-     text-decoration: none;
      opacity: 0.4;
 }
 
@@ -415,7 +414,7 @@ body {
        font-weight: 800;
        font-size: 20px;
        margin-left: 90px;
-       margin-top: 30px;
+       margin-top: 0px;
        background-color:   rgb(77, 224, 250);
    }
    
